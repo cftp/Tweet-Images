@@ -1,0 +1,14 @@
+/* @override http://dev.stephenfry.com/wp-content/plugins/tweet-images/css/admin.css?ver=0.0001 */
+
+td.wpti-category-checklist li {
+	list-style: none;
+}
+
+td.wpti-category-checklist li ul {
+	margin-top: 2px;
+}
+
+td.wpti-category-checklist li li {
+	margin-left: 2em;
+}
+

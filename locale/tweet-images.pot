@@ -1,0 +1,153 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/tweet-images\n"
+"POT-Creation-Date: 2011-05-13 15:00:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: templates-admin/settings.php:7
+msgid "Tweet Image Settings"
+msgstr ""
+
+#: templates-admin/settings.php:12
+msgid "Category"
+msgstr ""
+
+#: templates-admin/settings.php:14
+msgid ""
+"By default, Tweet Images posts in your default category (natch), change this "
+"below."
+msgstr ""
+
+#: templates-admin/settings.php:19
+msgid "Category for images"
+msgstr ""
+
+#: templates-admin/settings.php:32
+msgid "Bit.ly Link Shortening"
+msgstr ""
+
+#: templates-admin/settings.php:34
+msgid ""
+"These Bit.ly Link Shortening options are optional and if you are happy with "
+"your link shortening then there is no need to fill them in. These options "
+"allow you to specify a separate link shortening account for your Tweet "
+"Images, for example if you want to use http://mylin.ks for your links and "
+"http://mypi.cs for your images."
+msgstr ""
+
+#: templates-admin/settings.php:39
+msgid "Bit.ly Login"
+msgstr ""
+
+#: templates-admin/settings.php:43
+msgid "Bit.ly API Key"
+msgstr ""
+
+#: templates-admin/settings.php:49
+msgid "Save Changes"
+msgstr ""
+
+#: templates-admin/settings.php:53
+msgid "Test script location: %s"
+msgstr ""
+
+#: templates-admin/user-profile.php:3
+msgid "Tweet Image"
+msgstr ""
+
+#: templates-admin/user-profile.php:5
+msgid "These are the settings to enable hosting images from your Twitter app."
+msgstr ""
+
+#: templates-admin/user-profile.php:12
+msgid "Post notifications"
+msgstr ""
+
+#: templates-admin/user-profile.php:22
+msgid "Allow new Twitter images to be posted from my account"
+msgstr ""
+
+#: templates-admin/user-profile.php:24
+msgid "Allow new Twitter images to be posted by this user"
+msgstr ""
+
+#: templates-admin/user-profile.php:31
+msgid "API Endpoint URL"
+msgstr ""
+
+#: templates-admin/user-profile.php:35
+msgid "Regenerate Secret Code"
+msgstr ""
+
+#: templates-admin/user-profile.php:37
+msgid ""
+"Paste the contents of the text field above into your Twitter app settings to "
+"send your photos to this website."
+msgstr ""
+
+#: templates-admin/user-profile.php:38
+msgid ""
+"For reasons of security, the Tweet Image plugin does not require your "
+"Twitter or WordPress password when sending an image for hosting. Instead of "
+"a password, we provide a Secret Code (which is included in the \"API "
+"Endpoint URL\" above). Use the \"Regenerate Secret Code\" button if you need "
+"to change it. Happy tweeting!"
+msgstr ""
+
+#: wp-twitpics.php:112
+msgid ""
+"Warning: you have not enabled <a href=\"%s\">non-default permalinks</a> "
+"which the Tweet Images plugin requires for uploading to work."
+msgstr ""
+
+#: wp-twitpics.php:135
+msgid "Tweet Images"
+msgstr ""
+
+#: wp-twitpics.php:188
+msgid ""
+"Your \"Tweet Images secret\" has been regenerated, remember to copy/paste "
+"the new \"Services URL\" into your Twitter apps."
+msgstr ""
+
+#: wp-twitpics.php:313
+msgid "ERROR: User account not found."
+msgstr ""
+
+#: wp-twitpics.php:318
+msgid "ERROR: This user is not allowing uploads."
+msgstr ""
+
+#: wp-twitpics.php:323
+msgid "ERROR: Incorrect secret."
+msgstr ""
+
+#: wp-twitpics.php:327
+msgid "ERROR: This user cannot publish posts."
+msgstr ""
+
+#: wp-twitpics.php:331
+msgid "ERROR: You need to upload an image as \"media\"."
+msgstr ""
+
+#: wp-twitpics.php:407
+msgid ""
+"ERROR: Something went wrong when we tried to set the category, the error "
+"message was: "
+msgstr ""
+
+#: plugin.php:252
+msgid "This plugin admin template could not be found: %s"
+msgstr ""
+
+#: plugin.php:359
+msgid "This plugin template could not be found: %s"
+msgstr ""
